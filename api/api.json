@@ -1,0 +1,85 @@
+{
+  "todo": [
+    {
+      "id": "2",
+      "title": "Learn JavaScript",
+      "status": "inProgress",
+      "dueDate": "2020-12-29T18:30:00.000Z",
+      "description": "Learn JavaScript basics",
+      "assignedUser": 1,
+      "priority": "high",
+      "tags": []
+    },
+    {
+      "id": "3",
+      "title": "2Learn JavaScript2",
+      "status": "done",
+      "dueDate": "2020-12-29",
+      "description": "Learn JavaScript basics",
+      "assignedUser": 1,
+      "priority": "low",
+      "tags": []
+    },
+    {
+      "id": "4",
+      "title": "4Learn JavaScript3",
+      "status": "todo",
+      "dueDate": "2020-12-31",
+      "description": "Learn JavaScript basics",
+      "assignedUser": 1,
+      "priority": "high",
+      "tags": []
+    },
+    {
+      "id": "7457",
+      "title": "dsfsdf",
+      "status": "inprogress",
+      "dueDate": "09-01-2025",
+      "description": "sdfds",
+      "assignedUser": "Jean Doe",
+      "priority": "medium",
+      "tags": []
+    },
+    {
+      "id": "5df9",
+      "title": "Test",
+      "status": "todo",
+      "dueDate": "2025-01-18",
+      "description": "test",
+      "assignedUser": "2",
+      "priority": "low",
+      "tags": []
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Jean Doe",
+      "email": "jean@example.com"
+    },
+    {
+      "id": "3",
+      "name": "Bean Doe",
+      "email": "bean@example.com"
+    },
+    {
+      "id": "4",
+      "name": "Dean Doe",
+      "email": "dean@example.com"
+    },
+    {
+      "id": "427d",
+      "name": "Dean Doe",
+      "email": "dean@example.com"
+    }
+  ],
+  "auth": {
+    "username": "admin",
+    "password": "123"
+  }
+}
